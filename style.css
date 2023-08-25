@@ -1,0 +1,32 @@
+body{
+    background-color: #f19e44;
+}
+
+.header, .details, .location{
+    text-align: center;
+    font-family: 'Kanit', sans-serif;
+}
+
+.container{
+    text-align: center;
+    font-family: 'Kanit', sans-serif;
+}
+
+#timeShow{
+    font-family: 'Kanit', sans-serif;
+    font-size: 30px;
+}
+
+#theCountDown{
+    font-size: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: aliceblue;
+    text-align: center;
+    
+
+}
+
+#theChangingText{
+    font-size: 25px;
+}
